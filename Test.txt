@@ -1,3 +1,2 @@
-Testttt meeeee pleaseeee
 Test resolve conflict, commit, push, pull 
 console.log('GUI demo");
