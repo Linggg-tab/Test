@@ -1,2 +1,2 @@
-Testttt meeeee pleaseeeee
-- Thêm một dòng nữa - 
+Testttt meeeee pleaseeee
+Test resolve conflict, commit, push, pull 
